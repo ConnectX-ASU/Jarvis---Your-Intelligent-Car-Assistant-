@@ -28,7 +28,7 @@ Let's delve into what JARVIS can do:
 
 # Credits:
 
-This notebook is created by [Connect X]((https://www.linkedin.com/company/connectx23/)
+This notebook is created by [Connect X](https://www.linkedin.com/company/connectx23/)
 AI team.
 
 -------------------------------------------
