@@ -24,3 +24,32 @@ Let's delve into what JARVIS can do:
 * For enhanced driver safety, a face landmark detection model continuously monitors for signs of driver fatigue, particularly eye closure. If a certain threshold is exceeded, an alarm is triggered.
 
 * In conclusion, the current version of JARVIS is just a prototype. Its potential for growth and innovation knows no bounds, promising an exciting future ahead.
+
+
+# Credits:
+
+This notebook is created by [Connect X]((https://www.linkedin.com/company/connectx23/)
+AI team.
+
+-------------------------------------------
+
+**Directed by:**
+
+AI team director [Ammar Thabet](https://www.linkedin.com/in/ammar-thabett/)
+
+**Team leader:**
+
+* [Ahmed Wahdan](https://www.linkedin.com/in/ahmed-wahdan-b57ba9248)
+
+**Team members**
+
+ * [Ismail Gamal](https://www.linkedin.com/in/ismail-gamal-853436272)
+
+ * [Farah Safwat](https://www.linkedin.com/in/farah-safwat-42b77224a)
+
+ * [Moahammed Mostafa](https://www.linkedin.com/in/mohammed-mostafa237/)
+
+ * [Sama Sameh](https://www.linkedin.com/in/sama-sameh-b234912ba)
+
+ * [Mohamed Mahran](https://www.linkedin.com/in/mohamed-mahran-002b9b24b/)
+
